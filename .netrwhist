@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader'
+let g:netrw_dirhist_2='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/locales'
+let g:netrw_dirhist_3='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/criteria'
+let g:netrw_dirhist_4='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/profiles'
+let g:netrw_dirhist_5='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/views'
+let g:netrw_dirhist_6='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/criteria'
+let g:netrw_dirhist_7='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/views'
+let g:netrw_dirhist_8='/Users/nathan/workspace/science/research/max_msp/max_msp_grader/max_msp_grader/criteria'
