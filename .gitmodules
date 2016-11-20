@@ -1,6 +1,6 @@
-[submodule "bundle/bundle/colorschemes"]
-	path = bundle/bundle/colorschemes
-	url = https://github.com/flazz/vim-colorschemes.git
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/rainbow_parentheses"]
+	path = bundle/rainbow_parentheses
+	url = https://github.com/kien/rainbow_parentheses.vim
