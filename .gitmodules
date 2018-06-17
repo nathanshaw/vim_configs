@@ -22,3 +22,39 @@
 [submodule "bundle/SimpylFold"]
 	path = bundle/SimpylFold
 	url = https://github.com/tmhedberg/SimpylFold.git
+[submodule "bundle/vim-snippets"]
+	path = bundle/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/chuck.vim"]
+	path = bundle/chuck.vim
+	url = https://github.com/wilsaj/chuck.vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/python-syntax"]
+	path = bundle/python-syntax
+	url = https://github.com/hdima/python-syntax.git
+[submodule "bundle/rainbow_parentheses.vim"]
+	path = bundle/rainbow_parentheses.vim
+	url = https://github.com/kien/rainbow_parentheses.vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "bundle/vim-accordion"]
+	path = bundle/vim-accordion
+	url = https://github.com/mattboehm/vim-accordion.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = https://github.com/tpope/vim-dispatch.git
+[submodule "bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "bundle/vim-git-inline-diff"]
+	path = bundle/vim-git-inline-diff
+	url = https://github.com/luxflux/vim-git-inline-diff.git
+[submodule "bundle/vim-processing"]
+	path = bundle/vim-processing
+	url = https://github.com/sophacles/vim-processing.git
+[submodule "bundle/vim-tmux-navigator"]
+	path = bundle/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
